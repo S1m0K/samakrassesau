@@ -56,7 +56,7 @@ public class Main {
                     } else {
                         doppelt = false;
                     }
-                }Integer
+                }
             }
             lottoOhneDuplikate[i] = zz;
         }
